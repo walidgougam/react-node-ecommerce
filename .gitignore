@@ -5,9 +5,15 @@
 /.pnp
 .pnp.js
 .node_modules
-./server/node_modules
-.config
-./server/config
+../node_modules
+./node_modules
+./server/config/
+./server/config/config.env
+./server/config/db.js
+/config
+config
+db.js
+config.env
 
 # testing
 /coverage
