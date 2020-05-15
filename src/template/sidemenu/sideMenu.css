@@ -1,0 +1,13 @@
+.container_side {
+  background-color: pink;
+  position: absolute;
+  left: 0px;
+  width: 350px;
+  top: 50px;
+  height: 822px;
+}
+
+.btn_close {
+  position: absolute;
+  top: 0px;
+}

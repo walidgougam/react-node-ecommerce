@@ -1,0 +1,21 @@
+.container_product_screen {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.wrapper_add_cart {
+  border: solid 1px black;
+  background-color: beige;
+  width: 20rem;
+  height: 10rem;
+  padding: 1rem;
+}
+
+.btn_add_cart {
+  width: 100%;
+  background-color: yellow;
+  color: black;
+  padding: 0.2rem 0;
+  border-radius: 0.5rem;
+}
